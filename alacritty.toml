@@ -1,3 +1,4 @@
+[general]
 import = [
   "/home/yeshey/.npm/_npx/808b709e6234a442/node_modules/alacritty-themes/themes/rose_pine.toml"
 ]
