@@ -2,7 +2,7 @@ font:
   normal:
     family: "Monospace"  # Change to your preferred font
     style: "Regular"
-  size: 11 # Adjust this value for a larger or smaller font
+  size: 14 # Adjust this value for a larger or smaller font
 
 window:
   dimensions:
@@ -12,11 +12,12 @@ window:
     x: 10
     y: 10
   decorations: full
-  background_opacity: 0.4
+ #background_opacity: 0.4
+ background_opacity: 1.0
 
 colors:
   primary:
-    background: "#161616"
+    background: "#000000"
     foreground: "#f2f4f8"
     dim_foreground: "#b6b8bb"
     bright_foreground: "#f9fbff"
@@ -54,7 +55,7 @@ colors:
     background: "#2a2a2a"
 
   normal:
-    black: "#282828"
+    black: "#000000"
     red: "#ee5396"
     green: "#25be6a"
     yellow: "#08bdba"
